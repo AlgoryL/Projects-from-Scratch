@@ -1,5 +1,5 @@
 # Projects-from-Scratch
-Books and vedios for projects.
+A curated resources for projects building from scratch.
 
 ## Motivation
 Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.

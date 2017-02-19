@@ -112,7 +112,7 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [The AWK Programming Language](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X), Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger 
 
 ## To do
-Database and Algorithms
+Database and Cryptographics
 
 ## Contributions
 Pull requests and Issues are welcomed!

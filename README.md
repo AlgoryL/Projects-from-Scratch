@@ -1,5 +1,5 @@
 # Projects-from-Scratch
-A curated resources for projects building from scratch.
+A curated list for projects building from scratch.
 
 ## Motivation
 Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.

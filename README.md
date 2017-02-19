@@ -29,6 +29,8 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Radiosity: A Programmer's Perspective](http://www.helios32.com/resources.htm), Ian Ashdown
    * [Game Scripting Mastery](https://books.google.ca/books/about/Game_Scripting_Mastery.html?id=q5jdl_LLreMC), Alex Varanese
    * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read), Tomas Varaneckas
+   * [How to Make an RPG](https://howtomakeanrpg.com/), Daniel Schuller
+   * [Programming an RTS Game with Direct3D], Carl Granberg
    
 * Mobile Apps
    * [Learning Swift Building Apps for OS X and iOS](http://shop.oreilly.com/product/0636920045946.do), Paris Buttfield-Addison, Jon Manning, Tim Nugent
@@ -45,6 +47,7 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Linux From Scratch](http://www.linuxfromscratch.org/)
    * [Peter Norton's Assembly Language Book for the IBM PC](https://www.amazon.com/Peter-Nortons-Assembly-Language-Book/dp/0136619010), Peter Norton
    * [gitlet](https://github.com/maryrosecook/gitlet), Mary Rose Cook
+   * [Redo implementation in Haskell](https://github.com/jekor/redo), Chris Forno
 
 * Web
    * [Ruby on Rails Tutorial](https://www.railstutorial.org/), Michael Hartl
@@ -67,7 +70,9 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer), Daniel P. Friedman and Matthias Felleisen
    * [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer), Daniel P. Friedman, William E. Byrd and Oleg Kiselyov
    * [Nim in Action](https://www.manning.com/books/nim-in-action?a_aid=niminaction&a_bid=78a27e81), Dominik Picheta
-   * [C++ Design Patterns and Derivatives Pricing](https://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628), M. S. Joshi 
+   * [C++ Design Patterns and Derivatives Pricing](https://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628), M. S. Joshi
+   * [Take Off With Elixir](https://bigmachine.io/products/take-off-with-elixir/), Rob Conery
+   * [Big Nerd Ranch books](https://www.bignerdranch.com/books/)
 
 ## License
 MIT

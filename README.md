@@ -109,8 +109,13 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Big Nerd Ranch books](https://www.bignerdranch.com/books/)
    * [Automate the boring stuff](https://automatetheboringstuff.com/), Al Sweigart
    * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/), Allen B. Downey
-   * [The AWK Programming Language](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X), Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger
-4.7 
+   * [The AWK Programming Language](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X), Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger 
+
+## To do
+Database and Algorithms
+
+## Contributions
+Pull requests and Issues are welcomed!
 
 ## License
 MIT

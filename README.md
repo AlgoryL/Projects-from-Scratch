@@ -43,6 +43,7 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Programming an RTS Game with Direct3D](https://books.google.com.com/books/about/Programming_an_RTS_Game_with_Direct3D.html?id=jVkmAQAACAAJ&redir_esc=y), Carl Granberg
    * [How to Make a Game Like Candy Crush](https://www.raywenderlich.com/66877/how-to-make-a-game-like-candy-crush-part-1), Ray Wenderlich
    * [3D Game Engine Architecture: Engineering Real-Time Applications with Wild Magic](https://www.amazon.com/Game-Engine-Architecture-Engineering-Applications/dp/012229064X), David H. Eberly
+   * [Developing A Game With Lua and LÖVE](https://github.com/SSYGEN/blog/issues/30), SSYGEN
    
 * Mobile Apps
    * [Learning Swift Building Apps for OS X and iOS](http://shop.oreilly.com/product/0636920045946.do), Paris Buttfield-Addison, Jon Manning, Tim Nugent

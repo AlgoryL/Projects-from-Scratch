@@ -98,7 +98,7 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Learning Flex 4: Getting Up to Speed with Rich Internet Application Design and Development](https://www.amazon.com/d/0596805632), Alaric Cole and Elijah Robison
    * [Bandit Algorithms for Website Optimization: Developing, Deploying, and Debugging](https://www.amazon.com/Bandit-Algorithms-Website-Optimization-Developing/dp/1449341330), John Myles White
    
-* Mics
+* Misc
    * [Practical Common Lisp](http://www.gigamonkeys.com/book/), Peter Seibel
    * [The Art of Monitoring](https://www.artofmonitoring.com/), James Turnbull
    * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer), Daniel P. Friedman and Matthias Felleisen
@@ -110,6 +110,8 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Automate the boring stuff](https://automatetheboringstuff.com/), Al Sweigart
    * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/), Allen B. Downey
    * [The AWK Programming Language](https://www.amazon.com/AWK-Programming-Language-Alfred-Aho/dp/020107981X), Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger 
+   * [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html), Amy Brown and Greg Wilson
+   * [500 Lines or Less](https://www.aosabook.org/en/index.html), Michael DiBernado
 
 ## To do
 Database and Cryptographics

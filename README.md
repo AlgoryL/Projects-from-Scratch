@@ -98,7 +98,7 @@ Thanks to this [thread](https://news.ycombinator.com/item?id=13660086) in HN.
    * [Learning Flex 4: Getting Up to Speed with Rich Internet Application Design and Development](https://www.amazon.com/d/0596805632), Alaric Cole and Elijah Robison
    * [Bandit Algorithms for Website Optimization: Developing, Deploying, and Debugging](https://www.amazon.com/Bandit-Algorithms-Website-Optimization-Developing/dp/1449341330), John Myles White
    
-* Mics
+* Misc
    * [Practical Common Lisp](http://www.gigamonkeys.com/book/), Peter Seibel
    * [The Art of Monitoring](https://www.artofmonitoring.com/), James Turnbull
    * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer), Daniel P. Friedman and Matthias Felleisen
